@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dcsapporo
-- 👀 I’m interested in DIY modular synths, HTML5, CSS and AI
-- 🌱 I’m currently learning HTML5, CSS (on freeCodeCamp.org), Python and C/assembly
+- 👀 I’m interested in DIY modular synths, React, JSX, Python, C and AI
+- 🌱 I’m currently learning React, Data visualization with D3 (on freeCodeCamp.org), Python and C/assembly
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dcsapporoworkonline@gmail.com
 
